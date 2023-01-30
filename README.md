@@ -154,6 +154,9 @@ Most importantly, libraries are a great platform for making progress. When we ge
 ```
 
 # Output:
+![et](et.png)
+![ed](ed.png)
+![ef](ef.png)
 
 # Result:
 
